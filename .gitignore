@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+data/training
+
+*.pt
+!saved_models/retrain20000_l2_d01_c4_o10000.pt
